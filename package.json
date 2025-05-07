@@ -1,0 +1,14 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "A Simple Node.js 'Hello, World!' application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Abdullah bin Amin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
